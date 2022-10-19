@@ -1,9 +1,7 @@
 # JULY22-XRD-Project04
 Introduction to VR in Unity.
 
-Using the advanced Unity physics engine, create a realistic skills-based game involving throwing food at moving targets. Use the animation system to animate VR hands and detect collisions, allowing the player to pick up projectiles and realistically throw them at randomly generated targets. Create the classic VR teleport with all the UX functions. Use layers and LayerMask, Raycast, line renderers, and coroutines to create a VR locomotion system.
-
-Learn some mat with Lerp and dot products. They will become powerful tools for you.
+Using the advanced Unity physics engine, create a realistic skills-based game involving throwing food at moving targets. Use the animation system to animate VR hands and detect collisions, allowing the player to pick up projectiles and realistically throw them at randomly generated targets. Create the classic VR teleport with all the UX functions. Use layers and LayerMask, Raycast, line renderers, and coroutines to create a VR locomotion system. Learn some mat with Lerp and dot products.
 
 ## Project objectives:
 - Convert a Camera to an XR Rig
