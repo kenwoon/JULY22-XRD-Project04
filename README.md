@@ -30,3 +30,11 @@ Using the advanced Unity physics engine, create a realistic skills-based game in
 - Calculate linear interpolation
 - Calculate dot and cross products
 - Implement snap rotation
+- Implement abstract classes
+- Implement polymorphism
+- Implement iteration statements
+- Implement Configurable Joints
+- Implement custom interactions
+- Implement 3D buttons
+- Implement 3D dials
+- Implement 3D levers
